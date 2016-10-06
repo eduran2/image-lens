@@ -6,5 +6,6 @@ console.log('OK USA');
 
 $('img').imageLens({ 
     imageSrc: 'img/watch-zoom.jpg',
-    lensSize: 300
+    lensSize: 300,
+    borderColor: 'limegreen'
 });
