@@ -1,0 +1,1 @@
+$('img/watch-zoom').imageLens({ lensSize: 200 });
